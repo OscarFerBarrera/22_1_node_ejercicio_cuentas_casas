@@ -1,0 +1,24 @@
+{
+  "name": "22_1_node_ejercicio_cuentas_casas",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transpile": "tsc src/*.ts --outDir dist",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarFerBarrera/22_1_node_ejercicio_cuentas_casas.git"
+  },
+  "author": "Oscar Barrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarFerBarrera/22_1_node_ejercicio_cuentas_casas/issues"
+  },
+  "homepage": "https://github.com/OscarFerBarrera/22_1_node_ejercicio_cuentas_casas#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
